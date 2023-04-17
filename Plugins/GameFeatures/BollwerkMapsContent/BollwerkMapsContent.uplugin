@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BollwerkMaps",
+	"Description": "Map Content of the Bollwerk Experience",
+	"Category": "Game Features",
+	"CreatedBy": "Bollejan, Jsus, ElitoGame, Kareem, Magicman",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "ShooterCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LyraExampleContent",
+			"Enabled": true
+		}
+	]
+}
