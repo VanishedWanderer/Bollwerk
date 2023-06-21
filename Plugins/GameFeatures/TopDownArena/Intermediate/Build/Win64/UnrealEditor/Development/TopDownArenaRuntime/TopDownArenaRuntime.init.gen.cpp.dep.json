@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jan\\documents\\bollwerk\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\topdownarenaruntime.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jan\\documents\\bollwerk\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jan\\documents\\bollwerk\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
